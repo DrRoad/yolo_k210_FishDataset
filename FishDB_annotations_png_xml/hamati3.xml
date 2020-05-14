@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>hamati3.png</filename>
+	<path>./../FishDB_images_png/hamati3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>182</width>
+		<height>89</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>83</xmin>
+    <ymin>27</ymin>
+    <xmax>150</xmax>
+    <ymax>72</ymax>
+</bndbox>
+
+	</object>
+</annotation>

@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>suzuki5.png</filename>
+	<path>./../FishDB_images_png/suzuki5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>suzuki</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>1</xmin>
+    <ymin>21</ymin>
+    <xmax>158</xmax>
+    <ymax>102</ymax>
+</bndbox>
+
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>seaweed_fish42.png</filename>
+	<path>./../FishDB_images_png/seaweed_fish42.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>284</xmin>
+    <ymin>94</ymin>
+    <xmax>546</xmax>
+    <ymax>250</ymax>
+</bndbox>
+
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>52</xmin>
+    <ymin>71</ymin>
+    <xmax>228</xmax>
+    <ymax>167</ymax>
+</bndbox>
+
+	</object>
+</annotation>

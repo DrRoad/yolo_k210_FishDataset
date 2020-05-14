@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>smallfish183.png</filename>
+	<path>./../FishDB_images_png/smallfish183.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>371</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>98</xmin>
+    <ymin>83</ymin>
+    <xmax>222</xmax>
+    <ymax>181</ymax>
+</bndbox>
+
+	</object>
+</annotation>

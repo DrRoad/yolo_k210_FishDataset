@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>mebaru2.png</filename>
+	<path>./../FishDB_images_png/mebaru2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>94</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>21</xmin>
+    <ymin>246</ymin>
+    <xmax>52</xmax>
+    <ymax>277</ymax>
+</bndbox>
+
+	</object>
+</annotation>

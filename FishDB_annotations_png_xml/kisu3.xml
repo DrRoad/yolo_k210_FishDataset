@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>kisu3.png</filename>
+	<path>./../FishDB_images_png/kisu3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>kisu</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>485</xmin>
+    <ymin>76</ymin>
+    <xmax>884</xmax>
+    <ymax>420</ymax>
+</bndbox>
+
+	</object>
+</annotation>

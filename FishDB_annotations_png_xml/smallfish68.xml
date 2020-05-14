@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>smallfish68.png</filename>
+	<path>./../FishDB_images_png/smallfish68.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>372</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>hugu</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>20</xmin>
+    <ymin>101</ymin>
+    <xmax>338</xmax>
+    <ymax>263</ymax>
+</bndbox>
+
+	</object>
+</annotation>
