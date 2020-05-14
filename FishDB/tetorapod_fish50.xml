@@ -1,0 +1,26 @@
+<annotation>
+	<folder>terorapod_fish</folder>
+	<filename>tetorapod_fish50.jpg</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/terorapod_fish/tetorapod_fish50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mebaru</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>95</ymin>
+			<xmax>640</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>
