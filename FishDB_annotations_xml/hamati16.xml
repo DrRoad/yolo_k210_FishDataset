@@ -1,14 +1,14 @@
 
 <annotation>
 	<folder>./../FishDB_annotations_xml/</folder>
-	<filename>hamati16.jpeg</filename>
-	<path>./../FishDB_images/hamati16.jpeg</path>
+	<filename>hamati16.jpg</filename>
+	<path>./../FishDB_images/hamati16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>259</width>
-		<height>194</height>
+		<width>448</width>
+		<height>336</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,10 +19,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>8</xmin>
-    <ymin>64</ymin>
-    <xmax>137</xmax>
-    <ymax>121</ymax>
+    <xmin>14</xmin>
+    <ymin>111</ymin>
+    <xmax>237</xmax>
+    <ymax>211</ymax>
 </bndbox>
 
 <name>smallfish</name>
@@ -30,10 +30,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>208</xmin>
-    <ymin>151</ymin>
-    <xmax>234</xmax>
-    <ymax>166</ymax>
+    <xmin>361</xmin>
+    <ymin>261</ymin>
+    <xmax>405</xmax>
+    <ymax>287</ymax>
 </bndbox>
 
 <name>smallfish</name>
@@ -41,10 +41,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>179</xmin>
-    <ymin>176</ymin>
-    <xmax>202</xmax>
-    <ymax>185</ymax>
+    <xmin>309</xmin>
+    <ymin>305</ymin>
+    <xmax>350</xmax>
+    <ymax>322</ymax>
 </bndbox>
 
 <name>smallfish</name>
@@ -52,10 +52,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>178</xmin>
-    <ymin>160</ymin>
-    <xmax>197</xmax>
-    <ymax>173</ymax>
+    <xmin>308</xmin>
+    <ymin>278</ymin>
+    <xmax>340</xmax>
+    <ymax>300</ymax>
 </bndbox>
 
 <name>smallfish</name>
@@ -63,10 +63,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>229</xmin>
-    <ymin>165</ymin>
-    <xmax>251</xmax>
-    <ymax>180</ymax>
+    <xmin>396</xmin>
+    <ymin>286</ymin>
+    <xmax>434</xmax>
+    <ymax>312</ymax>
 </bndbox>
 
 	</object>

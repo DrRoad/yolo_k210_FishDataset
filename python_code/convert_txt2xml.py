@@ -92,6 +92,7 @@ if __name__ == '__main__':
             depth=3
         except:
             print("cloud not open "+txtfolderpath+jpgfilename)
+            raise()
         # ここからtxtの一つ一つのエリアを解読
         objxmls=""
         for sentence in sentences:

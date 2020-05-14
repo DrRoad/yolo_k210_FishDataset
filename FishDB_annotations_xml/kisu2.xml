@@ -1,14 +1,14 @@
 
 <annotation>
 	<folder>./../FishDB_annotations_xml/</folder>
-	<filename>kisu2.jpeg</filename>
-	<path>./../FishDB_images/kisu2.jpeg</path>
+	<filename>kisu2.jpg</filename>
+	<path>./../FishDB_images/kisu2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>259</width>
-		<height>194</height>
+		<width>400</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,10 +19,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>41</xmin>
-    <ymin>13</ymin>
-    <xmax>109</xmax>
-    <ymax>81</ymax>
+    <xmin>64</xmin>
+    <ymin>21</ymin>
+    <xmax>169</xmax>
+    <ymax>126</ymax>
 </bndbox>
 
 <name>kisu</name>
@@ -30,10 +30,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>98</xmin>
-    <ymin>48</ymin>
-    <xmax>232</xmax>
-    <ymax>98</ymax>
+    <xmin>152</xmin>
+    <ymin>75</ymin>
+    <xmax>359</xmax>
+    <ymax>153</ymax>
 </bndbox>
 
 <name>kisu</name>
@@ -41,21 +41,21 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>38</xmin>
+    <xmin>59</xmin>
+    <ymin>150</ymin>
+    <xmax>352</xmax>
+    <ymax>246</ymax>
+</bndbox>
+
+<name>kisu</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>39</xmin>
     <ymin>97</ymin>
-    <xmax>227</xmax>
-    <ymax>159</ymax>
-</bndbox>
-
-<name>kisu</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>25</xmin>
-    <ymin>62</ymin>
-    <xmax>120</xmax>
-    <ymax>107</ymax>
+    <xmax>186</xmax>
+    <ymax>166</ymax>
 </bndbox>
 
 	</object>

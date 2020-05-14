@@ -1,14 +1,14 @@
 
 <annotation>
 	<folder>./../FishDB_annotations_xml/</folder>
-	<filename>kasago3.jpeg</filename>
-	<path>./../FishDB_images/kasago3.jpeg</path>
+	<filename>kasago3.jpg</filename>
+	<path>./../FishDB_images/kasago3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>500</width>
-		<height>360</height>
+		<width>720</width>
+		<height>431</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,10 +19,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-    <xmin>191</xmin>
-    <ymin>141</ymin>
-    <xmax>493</xmax>
-    <ymax>341</ymax>
+    <xmin>276</xmin>
+    <ymin>170</ymin>
+    <xmax>711</xmax>
+    <ymax>409</ymax>
 </bndbox>
 
 	</object>
