@@ -1,0 +1,40 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>kawahagi27.jpeg</filename>
+	<path>./../FishDB_images/kawahagi27.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>102</xmin>
+    <ymin>43</ymin>
+    <xmax>135</xmax>
+    <ymax>76</ymax>
+</bndbox>
+
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>86</xmin>
+    <ymin>95</ymin>
+    <xmax>146</xmax>
+    <ymax>155</ymax>
+</bndbox>
+
+	</object>
+</annotation>

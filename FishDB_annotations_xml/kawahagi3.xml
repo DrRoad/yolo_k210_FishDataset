@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>kawahagi3.jpeg</filename>
+	<path>./../FishDB_images/kawahagi3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>kawahagi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>106</xmin>
+    <ymin>15</ymin>
+    <xmax>232</xmax>
+    <ymax>141</ymax>
+</bndbox>
+
+	</object>
+</annotation>

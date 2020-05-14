@@ -1,0 +1,249 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>smallfish100.jpg</filename>
+	<path>./../FishDB_images/smallfish100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>ishidai</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>978</xmin>
+    <ymin>343</ymin>
+    <xmax>1170</xmax>
+    <ymax>520</ymax>
+</bndbox>
+
+<name>ishidai</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>701</xmin>
+    <ymin>519</ymin>
+    <xmax>1070</xmax>
+    <ymax>704</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>36</xmin>
+    <ymin>21</ymin>
+    <xmax>376</xmax>
+    <ymax>142</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>151</xmin>
+    <ymin>217</ymin>
+    <xmax>374</xmax>
+    <ymax>322</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>49</xmin>
+    <ymin>416</ymin>
+    <xmax>253</xmax>
+    <ymax>540</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>242</xmin>
+    <ymin>419</ymin>
+    <xmax>410</xmax>
+    <ymax>519</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>301</xmin>
+    <ymin>286</ymin>
+    <xmax>489</xmax>
+    <ymax>402</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>381</xmin>
+    <ymin>648</ymin>
+    <xmax>608</xmax>
+    <ymax>720</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>265</xmin>
+    <ymin>570</ymin>
+    <xmax>416</xmax>
+    <ymax>637</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>449</xmin>
+    <ymin>549</ymin>
+    <xmax>613</xmax>
+    <ymax>660</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>437</xmin>
+    <ymin>455</ymin>
+    <xmax>636</xmax>
+    <ymax>539</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>556</xmin>
+    <ymin>382</ymin>
+    <xmax>728</xmax>
+    <ymax>459</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>648</xmin>
+    <ymin>444</ymin>
+    <xmax>748</xmax>
+    <ymax>520</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>618</xmin>
+    <ymin>310</ymin>
+    <xmax>822</xmax>
+    <ymax>387</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>681</xmin>
+    <ymin>163</ymin>
+    <xmax>857</xmax>
+    <ymax>266</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>893</xmin>
+    <ymin>118</ymin>
+    <xmax>1035</xmax>
+    <ymax>194</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>873</xmin>
+    <ymin>329</ymin>
+    <xmax>996</xmax>
+    <ymax>390</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>990</xmin>
+    <ymin>475</ymin>
+    <xmax>1111</xmax>
+    <ymax>568</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>1010</xmin>
+    <ymin>71</ymin>
+    <xmax>1249</xmax>
+    <ymax>205</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>640</xmin>
+    <ymin>0</ymin>
+    <xmax>876</xmax>
+    <ymax>53</ymax>
+</bndbox>
+
+<name>azi</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>393</xmin>
+    <ymin>18</ymin>
+    <xmax>530</xmax>
+    <ymax>148</ymax>
+</bndbox>
+
+	</object>
+</annotation>

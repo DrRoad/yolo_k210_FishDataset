@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>kurodai4.jpg</filename>
+	<path>./../FishDB_images/kurodai4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>kurodai</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>94</xmin>
+    <ymin>28</ymin>
+    <xmax>215</xmax>
+    <ymax>137</ymax>
+</bndbox>
+
+	</object>
+</annotation>

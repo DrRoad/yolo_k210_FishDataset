@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>kasago16.jpg</filename>
+	<path>./../FishDB_images/kasago16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>saba</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>159</xmin>
+    <ymin>184</ymin>
+    <xmax>700</xmax>
+    <ymax>445</ymax>
+</bndbox>
+
+	</object>
+</annotation>

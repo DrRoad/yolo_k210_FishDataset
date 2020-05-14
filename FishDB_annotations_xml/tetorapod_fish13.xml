@@ -1,0 +1,40 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>tetorapod_fish13.jpg</filename>
+	<path>./../FishDB_images/tetorapod_fish13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>310</xmin>
+    <ymin>183</ymin>
+    <xmax>496</xmax>
+    <ymax>360</ymax>
+</bndbox>
+
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>223</xmin>
+    <ymin>78</ymin>
+    <xmax>321</xmax>
+    <ymax>169</ymax>
+</bndbox>
+
+	</object>
+</annotation>

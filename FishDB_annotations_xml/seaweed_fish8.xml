@@ -1,0 +1,73 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>seaweed_fish8.jpg</filename>
+	<path>./../FishDB_images/seaweed_fish8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>258</xmin>
+    <ymin>79</ymin>
+    <xmax>361</xmax>
+    <ymax>168</ymax>
+</bndbox>
+
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>167</xmin>
+    <ymin>8</ymin>
+    <xmax>225</xmax>
+    <ymax>58</ymax>
+</bndbox>
+
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>18</xmin>
+    <ymin>1</ymin>
+    <xmax>86</xmax>
+    <ymax>44</ymax>
+</bndbox>
+
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>7</xmin>
+    <ymin>57</ymin>
+    <xmax>101</xmax>
+    <ymax>138</ymax>
+</bndbox>
+
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>1</xmin>
+    <ymin>183</ymin>
+    <xmax>163</xmax>
+    <ymax>322</ymax>
+</bndbox>
+
+	</object>
+</annotation>

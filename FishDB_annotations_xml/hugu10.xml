@@ -1,0 +1,29 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>hugu10.jpeg</filename>
+	<path>./../FishDB_images/hugu10.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>286</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>hugu</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>7</xmin>
+    <ymin>25</ymin>
+    <xmax>135</xmax>
+    <ymax>153</ymax>
+</bndbox>
+
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>sayori27.jpeg</filename>
+	<path>./../FishDB_images/sayori27.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>sayori</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>0</xmin>
+    <ymin>99</ymin>
+    <xmax>200</xmax>
+    <ymax>113</ymax>
+</bndbox>
+
+<name>sayori</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>76</xmin>
+    <ymin>49</ymin>
+    <xmax>258</xmax>
+    <ymax>60</ymax>
+</bndbox>
+
+	</object>
+</annotation>

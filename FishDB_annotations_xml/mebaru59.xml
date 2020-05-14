@@ -1,0 +1,62 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_xml/</folder>
+	<filename>mebaru59.jpeg</filename>
+	<path>./../FishDB_images/mebaru59.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>mebaru</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>48</xmin>
+    <ymin>27</ymin>
+    <xmax>142</xmax>
+    <ymax>72</ymax>
+</bndbox>
+
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>228</xmin>
+    <ymin>63</ymin>
+    <xmax>276</xmax>
+    <ymax>110</ymax>
+</bndbox>
+
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>148</xmin>
+    <ymin>26</ymin>
+    <xmax>182</xmax>
+    <ymax>57</ymax>
+</bndbox>
+
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>156</xmin>
+    <ymin>8</ymin>
+    <xmax>189</xmax>
+    <ymax>24</ymax>
+</bndbox>
+
+	</object>
+</annotation>
