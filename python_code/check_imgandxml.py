@@ -9,14 +9,14 @@ classestxtpath="./../classes.txt"
 
 
 if __name__ == '__main__':
-    xmlfolderpath = "./../FishDB_annotations/"
-    xmlfolderpath = "./../UnderwaterPhotography/xml/"
+    xmlfolderpath = "./../FishDB_annotations_png_xml/"
+    #xmlfolderpath = "./../UnderwaterPhotography/xml/"
     imgfilepath = "./../FishDB_images_png/"
-    imgfilepath = "./../UnderwaterPhotography/nagisa_park/"
+    #imgfilepath = "./../UnderwaterPhotography/nagisa_park/"
 
 
-    xmlfiles = [ x.split(".")[0] for x in sorted(os.listdir(xmlfolderpath))]
-    imgfiles = [ x.split(".")[0] for x in sorted(os.listdir(imgfilepath))]
+    xmlfiles = [ x.split(".")[0] for x in sorted(os.listdir(xmlfolderpath)) if x!=".DS_Store"]
+    imgfiles = [ x.split(".")[0] for x in sorted(os.listdir(imgfilepath)) if x!=".DS_Store"]
 
     #print(xmlfiles)
     #print(imgfiles)
