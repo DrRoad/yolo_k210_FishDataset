@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ishidai</folder>
+	<filename>ishidai16.png</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/ishidai/ishidai16.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>268</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>azi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>23</ymin>
+			<xmax>249</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
