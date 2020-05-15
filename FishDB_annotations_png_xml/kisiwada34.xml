@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kisiwada</folder>
+	<filename>kisiwada34.png</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kisiwada/kisiwada34.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>121</ymin>
+			<xmax>231</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
