@@ -1,0 +1,26 @@
+<annotation>
+	<folder>misaki_park_background</folder>
+	<filename>misakiura_241.png</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/misaki_park_background/misakiura_241.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kawahagi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>32</ymin>
+			<xmax>49</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>
