@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>smallfish103.png</filename>
-	<path>./../FishDB_images_png/smallfish103.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/smallfish103.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,28 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>ishidai</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>14</xmin>
-    <ymin>14</ymin>
-    <xmax>211</xmax>
-    <ymax>211</ymax>
-</bndbox>
-
-<name>azi</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>179</xmin>
-    <ymin>233</ymin>
-    <xmax>269</xmax>
-    <ymax>272</ymax>
-</bndbox>
-
+		<name>ishidai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>14</ymin>
+			<xmax>211</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ishidai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>347</ymin>
+			<xmax>218</xmax>
+			<ymax>391</ymax>
+		</bndbox>
 	</object>
 </annotation>

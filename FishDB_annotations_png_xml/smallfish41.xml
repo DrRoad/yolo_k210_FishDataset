@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>smallfish41.png</filename>
-	<path>./../FishDB_images_png/smallfish41.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/smallfish41.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,61 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>smallfish</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>174</xmin>
-    <ymin>192</ymin>
-    <xmax>230</xmax>
-    <ymax>226</ymax>
-</bndbox>
-
-<name>smallfish</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>121</xmin>
-    <ymin>129</ymin>
-    <xmax>165</xmax>
-    <ymax>178</ymax>
-</bndbox>
-
-<name>smallfish</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>29</xmin>
-    <ymin>100</ymin>
-    <xmax>56</xmax>
-    <ymax>125</ymax>
-</bndbox>
-
-<name>smallfish</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>73</xmin>
-    <ymin>174</ymin>
-    <xmax>98</xmax>
-    <ymax>209</ymax>
-</bndbox>
-
-<name>hugu</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>75</xmin>
-    <ymin>75</ymin>
-    <xmax>186</xmax>
-    <ymax>167</ymax>
-</bndbox>
-
+		<name>bera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>78</ymin>
+			<xmax>183</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>199</ymin>
+			<xmax>234</xmax>
+			<ymax>228</ymax>
+		</bndbox>
 	</object>
 </annotation>

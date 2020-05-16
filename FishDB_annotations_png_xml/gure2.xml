@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>gure2.png</filename>
-	<path>./../FishDB_images_png/gure2.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/gure2.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>gure</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>56</xmin>
-    <ymin>41</ymin>
-    <xmax>164</xmax>
-    <ymax>99</ymax>
-</bndbox>
-
+		<name>gure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>41</ymin>
+			<xmax>164</xmax>
+			<ymax>97</ymax>
+		</bndbox>
 	</object>
 </annotation>

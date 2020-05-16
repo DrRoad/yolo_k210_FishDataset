@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kouraitimonzi</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>koura46.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kouraitimonzi/koura46.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/koura46.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,11 +14,11 @@
 	<object>
 		<name>hugu</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>34</ymin>
+			<xmin>3</xmin>
+			<ymin>30</ymin>
 			<xmax>280</xmax>
 			<ymax>159</ymax>
 		</bndbox>

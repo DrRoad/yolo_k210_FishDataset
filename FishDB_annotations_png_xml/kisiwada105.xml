@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kisiwada</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>kisiwada105.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kisiwada/kisiwada105.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/kisiwada105.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,11 +14,11 @@
 	<object>
 		<name>suzuki</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>32</ymin>
+			<xmin>2</xmin>
+			<ymin>33</ymin>
 			<xmax>140</xmax>
 			<ymax>223</ymax>
 		</bndbox>

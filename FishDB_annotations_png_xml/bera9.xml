@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>bera9.png</filename>
-	<path>./../FishDB_images_png/bera9.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/bera9.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>bera</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>61</xmin>
-    <ymin>5</ymin>
-    <xmax>225</xmax>
-    <ymax>168</ymax>
-</bndbox>
-
+		<name>bera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>5</ymin>
+			<xmax>229</xmax>
+			<ymax>163</ymax>
+		</bndbox>
 	</object>
 </annotation>

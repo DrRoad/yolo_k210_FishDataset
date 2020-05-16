@@ -1,7 +1,7 @@
 <annotation>
-	<folder>siomi_tyuuhu</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>siomi127.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/siomi_tyuuhu/siomi127.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/siomi127.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>148</ymin>
 			<xmax>133</xmax>
 			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>156</ymin>
+			<xmax>90</xmax>
+			<ymax>174</ymax>
 		</bndbox>
 	</object>
 </annotation>

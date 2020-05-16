@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kisiwada</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>kisiwada94.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kisiwada/kisiwada94.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/kisiwada94.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,11 +14,11 @@
 	<object>
 		<name>kurodai</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>51</ymin>
+			<xmin>3</xmin>
+			<ymin>49</ymin>
 			<xmax>107</xmax>
 			<ymax>168</ymax>
 		</bndbox>

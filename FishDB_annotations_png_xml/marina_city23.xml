@@ -1,7 +1,7 @@
 <annotation>
-	<folder>marina_city</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>marina_city23.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/marina_city/marina_city23.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/marina_city23.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -105,6 +105,30 @@
 			<ymin>60</ymin>
 			<xmax>362</xmax>
 			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>82</ymin>
+			<xmax>317</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>103</ymin>
+			<xmax>395</xmax>
+			<ymax>124</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>kawahagi24.png</filename>
-	<path>./../FishDB_images_png/kawahagi24.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/kawahagi24.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,28 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>kawahagi</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>220</xmin>
-    <ymin>42</ymin>
-    <xmax>388</xmax>
-    <ymax>210</ymax>
-</bndbox>
-
-<name>kawahagi</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>91</xmin>
-    <ymin>129</ymin>
-    <xmax>229</xmax>
-    <ymax>267</ymax>
-</bndbox>
-
+		<name>kawahagi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>42</ymin>
+			<xmax>388</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kawahagi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>167</ymin>
+			<xmax>229</xmax>
+			<ymax>256</ymax>
+		</bndbox>
 	</object>
 </annotation>

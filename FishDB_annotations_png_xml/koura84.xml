@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kouraitimonzi</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>koura84.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kouraitimonzi/koura84.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/koura84.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>95</ymin>
 			<xmax>135</xmax>
 			<ymax>125</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kawahagi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>18</ymin>
+			<xmax>273</xmax>
+			<ymax>49</ymax>
 		</bndbox>
 	</object>
 </annotation>

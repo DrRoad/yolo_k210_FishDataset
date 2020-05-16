@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kisiwada</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>kisiwada60.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kisiwada/kisiwada60.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/kisiwada60.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,6 +81,18 @@
 			<ymin>65</ymin>
 			<xmax>361</xmax>
 			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ishidai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>207</ymin>
+			<xmax>385</xmax>
+			<ymax>240</ymax>
 		</bndbox>
 	</object>
 </annotation>

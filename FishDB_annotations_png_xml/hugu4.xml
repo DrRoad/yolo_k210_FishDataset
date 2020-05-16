@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>hugu4.png</filename>
-	<path>./../FishDB_images_png/hugu4.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/hugu4.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>hugu</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>10</xmin>
-    <ymin>0</ymin>
-    <xmax>177</xmax>
-    <ymax>167</ymax>
-</bndbox>
-
+		<name>hugu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>37</ymin>
+			<xmax>283</xmax>
+			<ymax>134</ymax>
+		</bndbox>
 	</object>
 </annotation>

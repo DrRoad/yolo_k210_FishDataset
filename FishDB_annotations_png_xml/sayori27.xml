@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>sayori27.png</filename>
-	<path>./../FishDB_images_png/sayori27.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/sayori27.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,28 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>sayori</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>0</xmin>
-    <ymin>99</ymin>
-    <xmax>200</xmax>
-    <ymax>113</ymax>
-</bndbox>
-
-<name>sayori</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>76</xmin>
-    <ymin>49</ymin>
-    <xmax>258</xmax>
-    <ymax>60</ymax>
-</bndbox>
-
+		<name>sayori</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>99</ymin>
+			<xmax>200</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sayori</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>47</ymin>
+			<xmax>246</xmax>
+			<ymax>59</ymax>
+		</bndbox>
 	</object>
 </annotation>

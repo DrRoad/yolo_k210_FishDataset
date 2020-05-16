@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>kisu4.png</filename>
-	<path>./../FishDB_images_png/kisu4.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/kisu4.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>kisu</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>22</xmin>
-    <ymin>52</ymin>
-    <xmax>274</xmax>
-    <ymax>106</ymax>
-</bndbox>
-
+		<name>kisu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>61</ymin>
+			<xmax>273</xmax>
+			<ymax>115</ymax>
+		</bndbox>
 	</object>
 </annotation>

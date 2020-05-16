@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>hamati8.png</filename>
-	<path>./../FishDB_images_png/hamati8.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/hamati8.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>hamati</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>110</xmin>
-    <ymin>34</ymin>
-    <xmax>356</xmax>
-    <ymax>124</ymax>
-</bndbox>
-
+		<name>hamati</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>35</ymin>
+			<xmax>356</xmax>
+			<ymax>124</ymax>
+		</bndbox>
 	</object>
 </annotation>

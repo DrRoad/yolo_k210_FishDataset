@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>smallfish72.png</filename>
-	<path>./../FishDB_images_png/smallfish72.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/smallfish72.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,28 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>smallfish</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>123</xmin>
-    <ymin>32</ymin>
-    <xmax>175</xmax>
-    <ymax>60</ymax>
-</bndbox>
-
-<name>hugu</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>33</xmin>
-    <ymin>56</ymin>
-    <xmax>255</xmax>
-    <ymax>241</ymax>
-</bndbox>
-
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>32</ymin>
+			<xmax>175</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hugu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>66</ymin>
+			<xmax>250</xmax>
+			<ymax>228</ymax>
+		</bndbox>
 	</object>
 </annotation>

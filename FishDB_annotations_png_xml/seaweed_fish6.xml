@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>seaweed_fish6.png</filename>
-	<path>./../FishDB_images_png/seaweed_fish6.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/seaweed_fish6.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>mebaru</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>299</xmin>
-    <ymin>27</ymin>
-    <xmax>640</xmax>
-    <ymax>138</ymax>
-</bndbox>
-
+		<name>mebaru</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>27</ymin>
+			<xmax>634</xmax>
+			<ymax>138</ymax>
+		</bndbox>
 	</object>
 </annotation>

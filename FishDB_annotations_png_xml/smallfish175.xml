@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>smallfish175.png</filename>
-	<path>./../FishDB_images_png/smallfish175.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/smallfish175.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>mebaru</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>70</xmin>
-    <ymin>73</ymin>
-    <xmax>170</xmax>
-    <ymax>137</ymax>
-</bndbox>
-
+		<name>mebaru</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>73</ymin>
+			<xmax>170</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>115</ymin>
+			<xmax>255</xmax>
+			<ymax>156</ymax>
+		</bndbox>
 	</object>
 </annotation>

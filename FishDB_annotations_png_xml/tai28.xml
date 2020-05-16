@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>tai28.png</filename>
-	<path>./../FishDB_images_png/tai28.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/tai28.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>tai</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>67</xmin>
-    <ymin>36</ymin>
-    <xmax>227</xmax>
-    <ymax>191</ymax>
-</bndbox>
-
+		<name>tai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>36</ymin>
+			<xmax>224</xmax>
+			<ymax>170</ymax>
+		</bndbox>
 	</object>
 </annotation>

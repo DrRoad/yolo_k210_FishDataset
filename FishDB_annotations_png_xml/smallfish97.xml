@@ -1,8 +1,7 @@
-
 <annotation>
-	<folder>./../FishDB_annotations_png_xml/</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>smallfish97.png</filename>
-	<path>./../FishDB_images_png/smallfish97.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/smallfish97.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,17 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		
-<name>smallfish</name>
-<pose>Unspecified</pose>
-<truncated>0</truncated>
-<difficult>0</difficult>
-<bndbox>
-    <xmin>11</xmin>
-    <ymin>107</ymin>
-    <xmax>201</xmax>
-    <ymax>167</ymax>
-</bndbox>
-
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>107</ymin>
+			<xmax>214</xmax>
+			<ymax>167</ymax>
+		</bndbox>
 	</object>
 </annotation>
