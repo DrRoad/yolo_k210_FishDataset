@@ -9,9 +9,11 @@ classestxtpath="./../classes.txt"
 
 
 if __name__ == '__main__':
-    xmlfolderpath = "./../FishDB_annotations_png_xml/"
+    #xmlfolderpath = "./../FishDB_annotations_png_xml/"
+    xmlfolderpath = "./../koura/xml/"
     #xmlfolderpath = "./../UnderwaterPhotography/xml/"
-    imgfilepath = "./../FishDB_images_png/"
+    #imgfilepath = "./../FishDB_images_png/"
+    imgfilepath = "./../koura/png/"
     #imgfilepath = "./../UnderwaterPhotography/nagisa_park/"
 
 

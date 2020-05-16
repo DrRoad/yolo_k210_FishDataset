@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>koura44.png</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/koura/png/koura44.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hugu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>102</ymin>
+			<xmax>126</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
