@@ -6,8 +6,8 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>426</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,16 +17,16 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>356</xmin>
-			<ymin>67</ymin>
-			<xmax>406</xmax>
-			<ymax>102</ymax>
+			<xmin>357</xmin>
+			<ymin>68</ymin>
+			<xmax>407</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>mezina</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>397</xmin>

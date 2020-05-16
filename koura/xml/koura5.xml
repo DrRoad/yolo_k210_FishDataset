@@ -1,13 +1,13 @@
 <annotation>
-	<folder>kouraitimonzi</folder>
+	<folder>png</folder>
 	<filename>koura5.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kouraitimonzi/koura5.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/koura/png/koura5.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>426</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>178</xmin>
-			<ymin>85</ymin>
-			<xmax>222</xmax>
+			<ymin>84</ymin>
+			<xmax>223</xmax>
 			<ymax>108</ymax>
 		</bndbox>
 	</object>
@@ -38,7 +38,7 @@
 	<object>
 		<name>mezina</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>352</xmin>
@@ -98,7 +98,7 @@
 	<object>
 		<name>mezina</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>269</xmin>
@@ -122,7 +122,7 @@
 	<object>
 		<name>mezina</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>381</xmin>

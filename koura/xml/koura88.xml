@@ -1,13 +1,13 @@
 <annotation>
-	<folder>kouraitimonzi</folder>
+	<folder>png</folder>
 	<filename>koura88.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kouraitimonzi/koura88.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/koura/png/koura88.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>426</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>207</xmin>
 			<ymin>74</ymin>
-			<xmax>254</xmax>
+			<xmax>253</xmax>
 			<ymax>111</ymax>
 		</bndbox>
 	</object>

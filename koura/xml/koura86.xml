@@ -1,13 +1,13 @@
 <annotation>
-	<folder>kouraitimonzi</folder>
+	<folder>png</folder>
 	<filename>koura86.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kouraitimonzi/koura86.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/koura/png/koura86.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>426</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -45,6 +45,18 @@
 			<ymin>169</ymin>
 			<xmax>119</xmax>
 			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>74</ymin>
+			<xmax>218</xmax>
+			<ymax>102</ymax>
 		</bndbox>
 	</object>
 </annotation>
