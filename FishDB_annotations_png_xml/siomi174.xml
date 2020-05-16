@@ -1,0 +1,26 @@
+<annotation>
+	<folder>siomi_tyuuhu</folder>
+	<filename>siomi174.png</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/siomi_tyuuhu/siomi174.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>suzuki</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>117</ymin>
+			<xmax>342</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
