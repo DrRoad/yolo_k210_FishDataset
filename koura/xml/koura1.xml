@@ -1,7 +1,7 @@
 <annotation>
-	<folder>kouraitimonzi</folder>
+	<folder>png</folder>
 	<filename>koura1.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kouraitimonzi/koura1.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/koura/png/koura1.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>360</xmin>
+			<xmin>356</xmin>
 			<ymin>67</ymin>
-			<xmax>412</xmax>
-			<ymax>107</ymax>
+			<xmax>406</xmax>
+			<ymax>102</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>363</xmin>
-			<ymin>129</ymin>
-			<xmax>415</xmax>
-			<ymax>178</ymax>
+			<xmin>397</xmin>
+			<ymin>45</ymin>
+			<xmax>426</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mezina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>137</ymin>
+			<xmax>402</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mezina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>180</ymin>
+			<xmax>392</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mezina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>104</ymin>
+			<xmax>416</xmax>
+			<ymax>128</ymax>
 		</bndbox>
 	</object>
 </annotation>
