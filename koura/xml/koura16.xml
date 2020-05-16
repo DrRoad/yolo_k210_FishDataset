@@ -1,0 +1,26 @@
+<annotation>
+	<folder>png</folder>
+	<filename>koura16.png</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/koura/png/koura16.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>85</ymin>
+			<xmax>275</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>
