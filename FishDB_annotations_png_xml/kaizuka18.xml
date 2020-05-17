@@ -1,13 +1,13 @@
 <annotation>
-	<folder>kaiduka</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>kaizuka18.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/kaiduka/kaizuka18.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/kaizuka18.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>426</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>94</xmin>
 			<ymin>68</ymin>
-			<xmax>188</xmax>
+			<xmax>182</xmax>
 			<ymax>98</ymax>
 		</bndbox>
 	</object>

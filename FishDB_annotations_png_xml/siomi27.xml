@@ -1,13 +1,13 @@
 <annotation>
-	<folder>siomi_tyuuhu</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>siomi27.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/siomi_tyuuhu/siomi27.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/siomi27.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>426</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>37</xmin>
 			<ymin>153</ymin>
-			<xmax>115</xmax>
-			<ymax>189</ymax>
+			<xmax>104</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>nakaoka</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>nakaoka16.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/nakaoka/nakaoka16.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/nakaoka16.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>640</width>
+		<height>360</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>49</xmin>
 			<ymin>104</ymin>
-			<xmax>316</xmax>
-			<ymax>227</ymax>
+			<xmax>290</xmax>
+			<ymax>218</ymax>
 		</bndbox>
 	</object>
 </annotation>

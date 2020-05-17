@@ -1,13 +1,13 @@
 <annotation>
-	<folder>misaki_park_background</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>misakiura_238.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/misaki_park_background/misakiura_238.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/misakiura_238.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>256</width>
+		<height>144</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>69</xmin>
-			<ymin>19</ymin>
-			<xmax>104</xmax>
-			<ymax>46</ymax>
+			<xmin>70</xmin>
+			<ymin>17</ymin>
+			<xmax>105</xmax>
+			<ymax>44</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>misaki_park</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>misaki55.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/UnderwaterPhotography/misaki_park/misaki55.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/misaki55.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>640</width>
+		<height>360</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>373</xmin>
-			<ymin>137</ymin>
-			<xmax>474</xmax>
-			<ymax>201</ymax>
+			<xmin>372</xmin>
+			<ymin>139</ymin>
+			<xmax>473</xmax>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 	<object>

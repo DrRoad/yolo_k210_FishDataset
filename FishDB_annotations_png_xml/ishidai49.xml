@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ishidai</folder>
+	<folder>FishDB_images_png</folder>
 	<filename>ishidai49.png</filename>
-	<path>/Users/shuichi-fu/Downloads/fish/ishidai/ishidai49.png</path>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/ishidai49.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>16</xmin>
-			<ymin>38</ymin>
-			<xmax>261</xmax>
+			<ymin>31</ymin>
+			<xmax>259</xmax>
 			<ymax>154</ymax>
 		</bndbox>
 	</object>
