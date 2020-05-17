@@ -11,8 +11,8 @@ import re
 
 
 if __name__ == '__main__':
-    xmlfolderpath = "./../koura/xml/"
-    #xmlfolderpath = "./../UnderwaterPhotography/xml/"
+    #xmlfolderpath = "./../koura/xml/"
+    xmlfolderpath = "./../FishDB_annotations_png_xml/"
     xmlfiles = sorted( [ x for x in sorted(os.listdir(xmlfolderpath)) if x!=".DS_Store"])
 
     #print(xmlfiles)
@@ -25,9 +25,9 @@ if __name__ == '__main__':
         #print(re.findall("<width>\d{1,4}</width>",rawfile))
         width=int(re.sub(r"\D", "", re.findall("<width>\d{1,4}</width>",rawfile)[0])  )
         height=int( re.sub(r"\D", "", re.findall("<height>\d{1,4}</height>",rawfile)[0]) )
-        if width==0:
-            print("Error width is 0: "+xmlfolderpath+xmlfilename)
-        if height==0:
-            print("Error height is 0: "+xmlfolderpath+xmlfilename)
+        # if width==0:
+        #     print("Error width is 0: "+xmlfolderpath+xmlfilename)
+        # if height==0:
+        #     print("Error height is 0: "+xmlfolderpath+xmlfilename)
         if len( re.findall("<bndbox>",rawfile) )==0:
             print("No ROI annotation: "+xmlfolderpath+xmlfilename)
