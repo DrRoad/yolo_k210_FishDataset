@@ -1,0 +1,26 @@
+<annotation>
+	<folder>azi</folder>
+	<filename>azi9.png</filename>
+	<path>/Users/shuichi-fu/Downloads/azi/azi/azi9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>azi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>20</ymin>
+			<xmax>244</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
