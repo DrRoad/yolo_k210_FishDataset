@@ -27,7 +27,7 @@ if __name__ == '__main__':
         height=int( re.sub(r"\D", "", re.findall("<height>\d{1,4}</height>",rawfile)[0]) )
         # if width==0:
         #     print("Error width is 0: "+xmlfolderpath+xmlfilename)
-        # if height==0:
-        #     print("Error height is 0: "+xmlfolderpath+xmlfilename)
+        if height==0:
+            print("Error height is 0: "+xmlfolderpath+xmlfilename)
         if len( re.findall("<bndbox>",rawfile) )==0:
             print("No ROI annotation: "+xmlfolderpath+xmlfilename)
