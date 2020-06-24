@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FishDB_images_png</folder>
+	<filename>nakaoka1.jpg</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/nakaoka1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>146</ymin>
+			<xmax>411</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

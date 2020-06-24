@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FishDB_images_png</folder>
+	<filename>misaki1.jpg</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/misaki1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>228</ymin>
+			<xmax>357</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>
