@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FishDB_images_png</folder>
+	<filename>siomi1.jpg</filename>
+	<path>/Users/shuichi-fu/Downloads/fish/FishDB_images_png/siomi1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>125</ymin>
+			<xmax>45</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>
