@@ -6,13 +6,13 @@ import re
 from PIL import Image
 
 if __name__ == '__main__':
-    #xmlfolderpath = "./../FishDB_annotations_png_xml/"
-    xmlfolderpath = "./../valid_xml/"
+    xmlfolderpath = "./../FishDB_annotations_png_xml/"
+    #xmlfolderpath = "./../valid_xml/"
 
     #xmlfolderpath = "./../koura/xml/"
     #xmlfolderpath = "./../UnderwaterPhotography/xml/"
-    #imgfilepath = "./../FishDB_images_png/"
-    imgfilepath = "./../valid_img/"
+    imgfilepath = "./../FishDB_images_png/"
+    #imgfilepath = "./../valid_img/"
     #imgfilepath = "./../koura/png/"
     #imgfilepath = "./../UnderwaterPhotography/nagisa_park/"
     #outputxmlpath=xmlfolderpath+'output/'
@@ -37,13 +37,19 @@ if __name__ == '__main__':
         #print(re.findall("<width>\d{1,4}</width>",rawfile))
         width=int(re.sub(r"\D", "", re.findall("<width>\d{1,4}</width>",rawfile)[0])  )
         height=int( re.sub(r"\D", "", re.findall("<height>\d{1,4}</height>",rawfile)[0]) )
+        xmax=int(re.sub(r"\D", "", re.findall("<xmax>\d{1,4}</xmax>",rawfile)[0])  )
+        ymax=int(re.sub(r"\D", "", re.findall("<ymax>\d{1,4}</ymax>",rawfile)[0])  )
+        if width<xmax:
+            print("Error annotation: width<xmax:")
+        if height<ymax:
+            print("Error annotation: height<ymax:")
         targetfilename=re.findall("<filename>.*</filename>",rawfile)[0]
-        print(targetfilename)
+        #print(targetfilename)
         #print(rawfile)
-        # filename の変更
+        ######### filename の変更
         #rawfile=re.sub(r".png</filename>",r".jpg</filename>",rawfile)
         #print(rawfile)
-        # <path>の削除
+        ######### <path>の削除
         rawfile=re.sub(r"<path>.*</path>","",rawfile)
         im = Image.open(imgfilepath+xmlfilename+"."+imgfiles_exts[i])
         #print(im.size)
