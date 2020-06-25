@@ -2,7 +2,7 @@
 <annotation>
 	<folder>./../FishDB_annotations_png_xml/</folder>
 	<filename>smallfish55.png</filename>
-	<path>./../FishDB_images_png/smallfish55.png</path>
+	
 	<source>
 		<database>Unknown</database>
 	</source>

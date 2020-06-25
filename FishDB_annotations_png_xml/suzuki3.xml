@@ -2,7 +2,7 @@
 <annotation>
 	<folder>./../FishDB_annotations_png_xml/</folder>
 	<filename>suzuki3.png</filename>
-	<path>./../FishDB_images_png/suzuki3.png</path>
+	
 	<source>
 		<database>Unknown</database>
 	</source>

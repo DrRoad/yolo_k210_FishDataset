@@ -2,7 +2,7 @@
 <annotation>
 	<folder>./../FishDB_annotations_png_xml/</folder>
 	<filename>seaweed_fish17.png</filename>
-	<path>./../FishDB_images_png/seaweed_fish17.png</path>
+	
 	<source>
 		<database>Unknown</database>
 	</source>
