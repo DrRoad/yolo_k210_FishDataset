@@ -1,0 +1,38 @@
+<annotation>
+	<folder>FishDB_images_png</folder>
+	<filename>smallfish48.png</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smallfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>85</ymin>
+			<xmax>155</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>101</ymin>
+			<xmax>315</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

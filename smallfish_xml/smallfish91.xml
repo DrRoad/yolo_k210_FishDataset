@@ -1,0 +1,40 @@
+
+<annotation>
+	<folder>./../FishDB_annotations_png_xml/</folder>
+	<filename>smallfish91.png</filename>
+	
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>36</xmin>
+    <ymin>44</ymin>
+    <xmax>102</xmax>
+    <ymax>138</ymax>
+</bndbox>
+
+<name>smallfish</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+    <xmin>121</xmin>
+    <ymin>130</ymin>
+    <xmax>167</xmax>
+    <ymax>163</ymax>
+</bndbox>
+
+	</object>
+</annotation>
