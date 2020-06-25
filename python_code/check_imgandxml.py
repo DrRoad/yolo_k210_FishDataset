@@ -6,13 +6,13 @@ import re
 from PIL import Image
 
 if __name__ == '__main__':
-    xmlfolderpath = "./../FishDB_annotations_png_xml/"
-    #xmlfolderpath = "./../valid_xml_jpg/"
+    #xmlfolderpath = "./../FishDB_annotations_png_xml/"
+    xmlfolderpath = "./../valid_xml/"
 
     #xmlfolderpath = "./../koura/xml/"
     #xmlfolderpath = "./../UnderwaterPhotography/xml/"
-    imgfilepath = "./../FishDB_images_png/"
-    #imgfilepath = "./../valid_img_jpg/"
+    #imgfilepath = "./../FishDB_images_png/"
+    imgfilepath = "./../valid_img/"
     #imgfilepath = "./../koura/png/"
     #imgfilepath = "./../UnderwaterPhotography/nagisa_park/"
     #outputxmlpath=xmlfolderpath+'output/'
