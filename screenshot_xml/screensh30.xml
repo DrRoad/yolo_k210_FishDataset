@@ -1,0 +1,26 @@
+<annotation>
+	<folder>screenshot_img</folder>
+	<filename>screensh30.png</filename>
+	<path>/Users/shuichi-fu/Documents/yolo_k210_FishDataset/screenshot_img/screensh30.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>214</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hugu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>147</ymin>
+			<xmax>129</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

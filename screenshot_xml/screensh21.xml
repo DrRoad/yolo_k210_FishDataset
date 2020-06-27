@@ -1,0 +1,26 @@
+<annotation>
+	<folder>screenshot_img</folder>
+	<filename>screensh21.png</filename>
+	<path>/Users/shuichi-fu/Documents/yolo_k210_FishDataset/screenshot_img/screensh21.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kisu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>174</ymin>
+			<xmax>618</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>screenshot_img</folder>
+	<filename>screensh27.png</filename>
+	<path>/Users/shuichi-fu/Documents/yolo_k210_FishDataset/screenshot_img/screensh27.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kawahagi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>153</ymin>
+			<xmax>819</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>screenshot_img</folder>
+	<filename>screensh4.png</filename>
+	<path>/Users/shuichi-fu/Documents/yolo_k210_FishDataset/screenshot_img/screensh4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>azi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>114</ymin>
+			<xmax>156</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
