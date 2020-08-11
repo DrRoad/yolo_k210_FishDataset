@@ -6,18 +6,15 @@ import re
 from PIL import Image
 
 if __name__ == '__main__':
-    xmlfolderpath = "./../FishDB_annotations_png_xml/"
-    #xmlfolderpath = "./../valid_xml/"
+    # xmlfolderpath = "./../FishDB_annotations_png_xml/"
+    # imgfilepath = "./../FishDB_images_png/"
 
-    #xmlfolderpath = "./../koura/xml/"
-    #xmlfolderpath = "./../UnderwaterPhotography/xml/"
-    imgfilepath = "./../FishDB_images_png/"
-    #imgfilepath = "./../valid_img/"
-    #imgfilepath = "./../koura/png/"
-    #imgfilepath = "./../UnderwaterPhotography/nagisa_park/"
-    #outputxmlpath=xmlfolderpath+'output/'
-    outputxmlpath=xmlfolderpath
-    os.makedirs(outputxmlpath, exist_ok=True)
+    xmlfolderpath = "./../smallfish_xml/"
+    imgfilepath = "./../smallfish/"
+
+    outputxmlpath=xmlfolderpath+'output/'
+    #outputxmlpath=xmlfolderpath
+    #os.makedirs(outputxmlpath, exist_ok=True)
 
     xmlfiles = [ x.split(".")[0] for x in sorted(os.listdir(xmlfolderpath)) if x!=".DS_Store" and x!="output"]
     imgfiles = [ x.split(".")[0] for x in sorted(os.listdir(imgfilepath)) if x!=".DS_Store"]
@@ -35,10 +32,20 @@ if __name__ == '__main__':
         #print(xmlfilename)
         #print(rawfile)
         #print(re.findall("<width>\d{1,4}</width>",rawfile))
-        width=int(re.sub(r"\D", "", re.findall("<width>\d{1,4}</width>",rawfile)[0])  )
-        height=int( re.sub(r"\D", "", re.findall("<height>\d{1,4}</height>",rawfile)[0]) )
-        xmax=int(re.sub(r"\D", "", re.findall("<xmax>\d{1,4}</xmax>",rawfile)[0])  )
-        ymax=int(re.sub(r"\D", "", re.findall("<ymax>\d{1,4}</ymax>",rawfile)[0])  )
+        try:
+            if len(re.findall("<xmax>\d{1,4}</xmax>",rawfile))==0:
+                print("ERROR: xml file exists, but No anottation on ",xmlfilename)
+            width=int(re.sub(r"\D", "", re.findall("<width>\d{1,4}</width>",rawfile)[0])  )
+            height=int( re.sub(r"\D", "", re.findall("<height>\d{1,4}</height>",rawfile)[0]) )
+            xmax=int(re.sub(r"\D", "", re.findall("<xmax>\d{1,4}</xmax>",rawfile)[0])  )
+            ymax=int(re.sub(r"\D", "", re.findall("<ymax>\d{1,4}</ymax>",rawfile)[0])  )
+        except Exception as e:
+            print(e)
+            print("Error",xmlfilename)
+            print("############# rawfile #############")
+            print(rawfile)
+            print("############# END #############")
+            raise
         if width<xmax:
             print("Error annotation: width<xmax:")
         if height<ymax:
@@ -62,8 +69,8 @@ if __name__ == '__main__':
             print("different height ({0},{1}): {2}".format(height,img_height,imgfilepath+xmlfilename) )
 
         # ファイルの書き込み
-        with open(outputxmlpath+xmlfilename+".xml",mode='w') as f:
-            f.write(rawfile)
+        # with open(outputxmlpath+xmlfilename+".xml",mode='w') as f:
+        #     f.write(rawfile)
 
 
     print("##################### check img files")
